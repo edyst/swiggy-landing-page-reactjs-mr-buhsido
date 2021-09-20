@@ -1,0 +1,27 @@
+{
+	"files": {
+		"main.css": "/swiggyproject/static/css/main.41c1985a.chunk.css",
+		"main.js": "/swiggyproject/static/js/main.7e273319.chunk.js",
+		"main.js.map": "/swiggyproject/static/js/main.7e273319.chunk.js.map",
+		"runtime-main.js": "/swiggyproject/static/js/runtime-main.957be86e.js",
+		"runtime-main.js.map": "/swiggyproject/static/js/runtime-main.957be86e.js.map",
+		"static/js/2.2079eebe.chunk.js": "/swiggyproject/static/js/2.2079eebe.chunk.js",
+		"static/js/2.2079eebe.chunk.js.map": "/swiggyproject/static/js/2.2079eebe.chunk.js.map",
+		"static/js/3.72e6fc7f.chunk.js": "/swiggyproject/static/js/3.72e6fc7f.chunk.js",
+		"static/js/3.72e6fc7f.chunk.js.map": "/swiggyproject/static/js/3.72e6fc7f.chunk.js.map",
+		"index.html": "/swiggyproject/index.html",
+		"static/css/main.41c1985a.chunk.css.map": "/swiggyproject/static/css/main.41c1985a.chunk.css.map",
+		"static/js/2.2079eebe.chunk.js.LICENSE.txt": "/swiggyproject/static/js/2.2079eebe.chunk.js.LICENSE.txt",
+		"static/media/hero.css": "/swiggyproject/static/media/Lun.70d3f77a.jpeg",
+		"static/media/Lunch.f2f26689.jpeg": "/swiggyproject/static/media/Lunch.f2f26689.jpeg",
+		"static/media/Swiggy_logo.88e6528c.png": "/swiggyproject/static/media/Swiggy_logo.88e6528c.png",
+		"static/media/rsec1.5c564601.png": "/swiggyproject/static/media/rsec1.5c564601.png",
+		"static/media/rsec2.8c94aa21.png": "/swiggyproject/static/media/rsec2.8c94aa21.png"
+	},
+	"entrypoints": [
+		"static/js/runtime-main.957be86e.js",
+		"static/js/2.2079eebe.chunk.js",
+		"static/css/main.41c1985a.chunk.css",
+		"static/js/main.7e273319.chunk.js"
+	]
+}
